@@ -23,4 +23,4 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: devops-testbed/gradle/action@8d66a3ee214a7115e46fe28adcff64652c62956a
+      - uses: devops-testbed/gradle/actions@8d66a3ee214a7115e46fe28adcff64652c62956a
